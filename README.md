@@ -1,4 +1,4 @@
-### Hi there 👋 me chamo Ademir Junior Fertonani  
+### Hi there 👋 me chamo Ademir Junior Parra Fertonani  
 <a href=https://www.linkedin.com/in/jrfertonani/ target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ## Trabalho com
