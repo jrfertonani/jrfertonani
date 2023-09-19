@@ -1,4 +1,5 @@
 ### Hi there 👋 I'm Ademir Junior Parra Fertonani  
+⚡🚀 I'm developer
 
 📚 I study Systems Analysis at Unicesumar.
 
