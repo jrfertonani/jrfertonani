@@ -1,4 +1,7 @@
-### Hi there 👋 me chamo Ademir Junior Parra Fertonani  
+### Hi there 👋 I'm Ademir Junior Parra Fertonani  
+📚 I study Systems Analysis at Unicesumar.
+💬 Ask me about 💚JAVA -💚 MYSQL - About teamwork and fun.
+🌱 Always in good company - Psalm 1. 
 <a href=https://www.linkedin.com/in/jrfertonani/ target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ## Trabalho com
