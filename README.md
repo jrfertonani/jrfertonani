@@ -8,7 +8,6 @@
 
 
 <p align="center">
-	<a href="https://github.com/jrfertonani"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
 	<a href="https://www.linkedin.com/in/jrfertonani/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 </p>
 	
@@ -31,11 +30,9 @@
 </p>
 
 <p align="center">
-
   <a href="https://github.com/jrfertonani">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jrfertonani&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrfertonani&layout=compact&langs_count=7&theme=dracula"/>
-
 </p>
 	  
 <p align="center">
