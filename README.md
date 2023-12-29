@@ -25,15 +25,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrfertonani&layout=compact&langs_count=7&theme=dark"/>
 </p>
 
-<p align="center">⚡🚀 I'm developer </p>
+<p align="center"> - Psalm 1. 💬 Ask me about 💚JAVA -💚 MYSQL - About teamwork and fun.</p>
 
-<p align="center"> 📚 I study Systems Analysis. </p>
-
-<p align="center"> 💬 Ask me about 💚JAVA -💚 MYSQL - About teamwork and fun.</p>
-
-<p align="center">🌱 Always in good company - Psalm 1. </p>
-
-</p>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="250">
