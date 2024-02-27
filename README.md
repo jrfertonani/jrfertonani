@@ -9,7 +9,7 @@
  </p>
 
 <p align="center">
-	<a href="https://www.linkedin.com/in/jrfertonani/"> <img width="150px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" /></a>
+	<a href="https://www.linkedin.com/in/jrfertonani/"> <img width="180px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" /></a>
 </p>
 
 <p align="center">
