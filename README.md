@@ -10,15 +10,12 @@
 
 <p align="center">
 	<a href="https://www.linkedin.com/in/jrfertonani/"> <img width="150px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" /></a>
-	
-          
 </p>
 
 <p align="center">
 	<img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
  	<img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 	<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-
 </p>
 
 <p align="center">
