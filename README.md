@@ -17,7 +17,7 @@
 	<img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"  />
  	<img width="80px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 	<img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-	<img width="50px" src="https://icongr.am/devicon/typescript-original.svg?size=60&color=currentColor" />
+	<img width="55px" src="https://icongr.am/devicon/typescript-original.svg?size=60&color=currentColor" />
 </p>
 
 <p align="center">
