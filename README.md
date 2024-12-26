@@ -28,6 +28,8 @@
 
 <p align="center">  💬 Ask me about 💚JAVA -💚 MYSQL - About teamwork and fun.</p>
 
+![Snake animation](https://github.com/seu-usuário-aqui/jrfertonani/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
