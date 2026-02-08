@@ -29,4 +29,4 @@
 </p>
 
 
-<p align="center">  💬 Ask me about 💚JAVA -💚 MYSQL - About teamwork and fun.</p>
+<p align="center">  💬 Ask me about 💚JAVA -💚 SQL - About teamwork and fun.</p>
