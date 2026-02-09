@@ -5,7 +5,7 @@
 
 
 <p align="center">
-<img width="520px" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
+<img width="520px" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Meu GIF animado">
  </p>
 
 <p align="center">
@@ -24,8 +24,9 @@
 
 <p align="center">
   <a href="https://github.com/jrfertonani">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jrfertonani&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrfertonani&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jrfertonani&show_icons=true&theme=dark" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrfertonani&layout=compact&langs_count=7&theme=dark" />
+  </a>
 </p>
 
 
