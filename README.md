@@ -1,3 +1,5 @@
+
+
 <div>
 <h1 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰! - Psalm 1. <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="30px"></h2>
 
@@ -22,12 +24,8 @@
           
 </p>
 
-<p align="center">
-  <a href="https://github.com/jrfertonani">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jrfertonani&show_icons=true&theme=dark" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrfertonani&layout=compact&langs_count=7&theme=dark" />
-  </a>
+<p align="center">  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jrfertonani&theme=dark" />
 </p>
-
 
 <p align="center">  💬 Ask me about 💚JAVA -💚 SQL - About teamwork and fun.</p>
