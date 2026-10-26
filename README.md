@@ -18,9 +18,14 @@
  	<img width="55px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
 	<img width="60px" src="https://devicon-website.vercel.app/api/docker/original-wordmark.svg">
 	<img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />	
-	<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+	<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
 	<img width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
 	<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+	<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lovable/lovable-original.svg" />
+	<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/claude/claude-original.svg" />
+	<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" />
+
+
           
           
 </p>
@@ -29,4 +34,4 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=jrfertonani&theme=dark" />
 </p>
 
-<p align="center">  💬 Ask me about 💚JAVA -💚 SQL - About teamwork and fun.</p>
+<p align="center">  💬 Ask me about 💚• GenAI e AI Agents (RAG, LLMs, MCP e Prompt Engineering) 💚 - About teamwork and fun.</p>
